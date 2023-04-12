@@ -14,3 +14,5 @@ personalization
 4. Negative prompts - control Stable Diffusion with inverse psychology
    example: https://github.com/huggingface/diffusers/pull/549
 
+How to finetune BLIP on COCO-Captioning — LAVIS documentation
+link: https://opensource.salesforce.com/LAVIS//latest/tutorial.training-example.html
