@@ -7,6 +7,8 @@
 personalization
 1. Dreambooth - is personalization method for Stable Diffusion with 3-5 images
    repo: https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
+   example - https://www.reddit.com/r/StableDiffusion/comments/11xuki3/i_made_a_free_website_to_train_your_own/
+   
 2. Textual Inversion - is a Dreambooth alternative
    repo: https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion
 3. CLIP Guided Stable Diffusion - Stable Diffusion for even more realism
